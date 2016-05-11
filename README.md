@@ -6,6 +6,8 @@ gulp plugin for validating JSON files with [JSON Schema](http://json-schema.org/
 
 Currently using [tv4](https://github.com/geraintluff/tv4) as a backend for JSON schema validation, which supports [draft v4 specification](https://tools.ietf.org/html/draft-zyp-json-schema-04).
 
+![](images/screenshot.png)
+
 ## Install
 
     npm install --save-dev gulp-json-schema
