@@ -1,5 +1,7 @@
 # gulp-json-schema
 
+[![wercker status](https://app.wercker.com/status/c0c9b2e96eadc1474475a40ff1f7aa0a/s/master "wercker status")](https://app.wercker.com/project/bykey/c0c9b2e96eadc1474475a40ff1f7aa0a)
+
 gulp plugin for validating JSON files with [JSON Schema](http://json-schema.org/)
 
 Currently using [tv4](https://github.com/geraintluff/tv4) as a backend for JSON schema validation, which supports [draft v4 specification](https://tools.ietf.org/html/draft-zyp-json-schema-04).
