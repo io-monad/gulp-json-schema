@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.6.1",
-    "figures": "^1.5.0",
+    "figures": "^1.7.0",
     "gulp-util": "*",
     "normalize-url": "^1.5.2",
     "request": "^2.72.0",
