@@ -68,7 +68,7 @@
     "power-assert": "^1.4.1",
     "semantic-release": "^4.3.5",
     "sr-condition-wercker": "^1.0.2",
-    "validate-commit-msg": "^2.6.1"
+    "validate-commit-msg": "^2.8.1"
   },
   "release": {
     "verifyConditions": "sr-condition-wercker"
