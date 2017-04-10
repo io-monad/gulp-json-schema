@@ -64,7 +64,7 @@
     "ghooks": "^1.2.3",
     "gulp": "^3.9.1",
     "mocha": "^2.5.2",
-    "nock": "^8.0.0",
+    "nock": "^9.0.12",
     "power-assert": "^1.4.1",
     "semantic-release": "^4.3.5",
     "sr-condition-wercker": "^1.0.2",
